@@ -10,7 +10,8 @@ def log_func(msg):
     print(msg)
 
 class Interpreteur(Thread):
-    
+    """TEST"""
+
     def __init__(self):
         print('Initialisation...')
 
